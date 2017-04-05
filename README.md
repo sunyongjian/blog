@@ -5,6 +5,7 @@
 ### ES6
 - [Promise阅读笔记](https://github.com/sunyongjian/blog/issues/12)  
 - [Symbol对象是什么](https://github.com/sunyongjian/blog/issues/17)
+- [迭代器(iterator)](https://github.com/sunyongjian/blog/issues/18)
 
 
 ### Redux
