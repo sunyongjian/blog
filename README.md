@@ -15,7 +15,7 @@
 
 ### Javascript
 7. [js中的继承小结](https://github.com/sunyongjian/blog/issues/7)
-12. [观察者(发布订阅)模式](https://github.com/sunyongjian/blog/issues/13)
+13. [观察者(发布订阅)模式](https://github.com/sunyongjian/blog/issues/13)
 
 ### Node
 6. [node基础学习](https://github.com/sunyongjian/blog/issues/6)
