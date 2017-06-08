@@ -13,6 +13,7 @@
 - [redux入门之reducer](https://github.com/sunyongjian/blog/issues/9)
 - [redux入门之store](https://github.com/sunyongjian/blog/issues/10)
 - [redux入门之action](https://github.com/sunyongjian/blog/issues/11)
+- [探究redux源码-衍生-中间件思想](https://github.com/sunyongjian/blog/issues/21)
 
 ### Javascript
 - [js中的继承小结](https://github.com/sunyongjian/blog/issues/7)
@@ -35,3 +36,6 @@
 
 ### 生活
 - [一百天运动总结](https://github.com/sunyongjian/blog/issues/19)
+
+### 其他
+- [记录一些关键字](https://github.com/sunyongjian/blog/issues/20)
