@@ -25,6 +25,10 @@
 - [node基础学习](https://github.com/sunyongjian/blog/issues/6)
 - [express 学习](https://github.com/sunyongjian/blog/issues/5)
 
+### 面试
+- [面试问别人的一些问题](https://github.com/sunyongjian/blog/issues/24)
+- [JS面试题答案整理](https://github.com/sunyongjian/blog/issues/23)
+
 ### Command
 - [linux命令笔记](https://github.com/sunyongjian/blog/issues/15)
 - [git常用问题](https://github.com/sunyongjian/blog/issues/16)
