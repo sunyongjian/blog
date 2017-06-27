@@ -9,6 +9,8 @@
 - [Symbol对象是什么](https://github.com/sunyongjian/blog/issues/17)
 - [迭代器(iterator)](https://github.com/sunyongjian/blog/issues/18)
 
+### React
+- [React进阶之高阶组件](https://github.com/sunyongjian/blog/issues/25)
 
 ### Redux
 - [redux入门之三大原则](https://github.com/sunyongjian/blog/issues/8)
