@@ -11,6 +11,7 @@
 
 ### React
 - [React进阶之高阶组件](https://github.com/sunyongjian/blog/issues/25)
+- [React组件之间的通信](https://github.com/sunyongjian/blog/issues/27)
 
 ### Redux
 - [redux入门之三大原则](https://github.com/sunyongjian/blog/issues/8)
