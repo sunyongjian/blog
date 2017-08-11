@@ -12,6 +12,7 @@
 ### React
 - [React进阶之高阶组件](https://github.com/sunyongjian/blog/issues/25)
 - [React组件之间的通信](https://github.com/sunyongjian/blog/issues/27)
+- [Mobx的简单总结](https://github.com/sunyongjian/blog/issues/28)
 
 ### Redux
 - [redux入门之三大原则](https://github.com/sunyongjian/blog/issues/8)
@@ -35,6 +36,7 @@
 ### Command
 - [linux命令笔记](https://github.com/sunyongjian/blog/issues/15)
 - [git常用问题](https://github.com/sunyongjian/blog/issues/16)
+- [git-Fork工作流](https://github.com/sunyongjian/blog/issues/29)
 
 ### 工具
 - [oh-my-zsh](https://github.com/sunyongjian/blog/issues/2)
