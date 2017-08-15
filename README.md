@@ -43,7 +43,7 @@
 - [eslint使用](https://github.com/sunyongjian/blog/issues/14)
 - [我的vim配置](https://github.com/sunyongjian/blog/issues/22)
 
-### 浏览器
+### WEB
 - [session和cookie 的区别](https://github.com/sunyongjian/blog/issues/4)
 
 ### 生活
