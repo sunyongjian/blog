@@ -4,6 +4,8 @@
 
 > 由于本人接触code时间不长，能力是有限，工作加班挺多，精力也有限，写出来的东西很难完美。处于成长期，文章质量差异化是正常的。但是我希望的是，所有读过文章的同学，支持的我会感谢，有建议的也希望多多提出，只有大家的批评和支持，我才会进步，会写出更好的文章。感谢。
 
+### 函数式编程
+- [repo](https://github.com/sunyongjian/FP-Code/tree/master)
 ### ES6
 - [Promise阅读笔记](https://github.com/sunyongjian/blog/issues/12)  
 - [Symbol对象是什么](https://github.com/sunyongjian/blog/issues/17)
