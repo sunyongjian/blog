@@ -6,6 +6,9 @@
 
 ### 函数式编程
 - [repo](https://github.com/sunyongjian/FP-Code/tree/master)
+
+### [工作推荐](https://github.com/sunyongjian/blog/blob/master/jr.md)
+
 ### ES6
 - [Promise阅读笔记](https://github.com/sunyongjian/blog/issues/12)  
 - [Symbol对象是什么](https://github.com/sunyongjian/blog/issues/17)
