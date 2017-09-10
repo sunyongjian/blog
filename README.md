@@ -1,13 +1,11 @@
 
 ### 简介
-欢迎来到syj的个人blog，与其叫blog，其实是自己记录，写些东西的地方。欢迎star
+最开始是记录东西的地方，后来慢慢的开始写一些文章。本人接触 code 时间不长，文章质量会有差异。通过记录，来见证自己的成长。喜欢的请 star 吧，给予我动力。
 
-> 由于本人接触code时间不长，能力是有限，工作加班挺多，精力也有限，写出来的东西很难完美。处于成长期，文章质量差异化是正常的。但是我希望的是，所有读过文章的同学，支持的我会感谢，有建议的也希望多多提出，只有大家的批评和支持，我才会进步，会写出更好的文章。感谢。
+打个硬广[jobs](https://github.com/sunyongjian/blog/blob/master/jr.md)
 
 ### 函数式编程
-- [repo](https://github.com/sunyongjian/FP-Code/tree/master)
-
-### [工作推荐](https://github.com/sunyongjian/blog/blob/master/jr.md)
+- [repo](https://github.com/sunyongjian/FP-Code/tree/master) (2017.7.31)
 
 ### ES6
 - [Promise阅读笔记](https://github.com/sunyongjian/blog/issues/12)  
