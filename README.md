@@ -25,6 +25,7 @@
 - [探究redux源码-衍生-中间件思想](https://github.com/sunyongjian/blog/issues/21)
 
 ### Javascript
+- [你真的会用 babel 吗？](https://github.com/sunyongjian/blog/issues/30)
 - [js中的继承小结](https://github.com/sunyongjian/blog/issues/7)
 - [观察者(发布订阅)模式](https://github.com/sunyongjian/blog/issues/13)
 
