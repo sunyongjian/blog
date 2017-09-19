@@ -2,8 +2,6 @@
 ### 简介
 最开始是记录东西的地方，后来慢慢的开始写一些文章。本人接触 code 时间不长，文章质量会有差异。通过记录，来见证自己的成长。喜欢的请 star 吧，给予我动力。
 
-打个硬广[jobs](https://github.com/sunyongjian/blog/blob/master/jr.md)
-
 ### 函数式编程
 - [repo](https://github.com/sunyongjian/FP-Code/tree/master) (2017.7.31)
 
