@@ -33,6 +33,7 @@
 - [express 学习](https://github.com/sunyongjian/blog/issues/5) (2016.07)
 
 ### 面试
+- [2017-08 面试总结](https://github.com/sunyongjian/blog/issues/32) (2017.08)
 - [面试问别人的一些问题](https://github.com/sunyongjian/blog/issues/24) (2017.03.14)
 - [JS面试题答案整理](https://github.com/sunyongjian/blog/issues/23) (2017.03.13)
 
