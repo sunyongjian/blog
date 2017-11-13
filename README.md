@@ -25,6 +25,7 @@
 ### Javascript
 - [由中间件思想引发出的 JavaScript 异步队列](https://github.com/sunyongjian/blog/issues/31) (2017.9.27)
 - [你真的会用 babel 吗？](https://github.com/sunyongjian/blog/issues/30) (2017.09.14)
+- [不可变数据（immutable data）](https://github.com/sunyongjian/blog/issues/33)（2017.11.12）
 - [js中的继承小结](https://github.com/sunyongjian/blog/issues/7) (2016.06)
 - [观察者(发布订阅)模式](https://github.com/sunyongjian/blog/issues/13) (2016.12.15)
 
