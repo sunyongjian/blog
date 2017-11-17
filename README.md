@@ -16,11 +16,11 @@
 - [Mobx 的简单总结](https://github.com/sunyongjian/blog/issues/28) (2017.8.10)
 
 ### Redux
-- [redux 入门之三大原则](https://github.com/sunyongjian/blog/issues/8) (2016.12.11)
-- [redux 入门之 reducer](https://github.com/sunyongjian/blog/issues/9) (2016.12.14)
-- [redux 入门之 store](https://github.com/sunyongjian/blog/issues/10) (2016.12.11)
-- [redux 入门之 action](https://github.com/sunyongjian/blog/issues/11) (2016.12.13)
-- [探究 redux 源码-衍生-中间件思想](https://github.com/sunyongjian/blog/issues/21) (2017.06.10)
+- [Redux 入门之三大原则](https://github.com/sunyongjian/blog/issues/8) (2016.12.11)
+- [Redux 入门之 reducer](https://github.com/sunyongjian/blog/issues/9) (2016.12.14)
+- [Redux 入门之 store](https://github.com/sunyongjian/blog/issues/10) (2016.12.11)
+- [Redux 入门之 action](https://github.com/sunyongjian/blog/issues/11) (2016.12.13)
+- [探究 Redux 源码-衍生-中间件思想](https://github.com/sunyongjian/blog/issues/21) (2017.06.10)
 
 ### Javascript
 - [由中间件思想引发出的 JavaScript 异步队列](https://github.com/sunyongjian/blog/issues/31) (2017.9.27)
