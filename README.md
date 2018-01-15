@@ -13,6 +13,7 @@
 ### React
 - [React 进阶之高阶组件](https://github.com/sunyongjian/blog/issues/25) (2017.6.28)
 - [React 组件之间的通信](https://github.com/sunyongjian/blog/issues/27) (2017.7.28)
+- [对 React 状态管理的理解及方案对比](https://github.com/sunyongjian/blog/issues/36) (2018.1.14)
 - [Mobx 的简单总结](https://github.com/sunyongjian/blog/issues/28) (2017.8.10)
 
 ### Redux
