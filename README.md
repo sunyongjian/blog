@@ -33,10 +33,6 @@
 ### 网络
 - [从浏览器输入一个 url 到页面渲染，涉及的知识点](https://github.com/sunyongjian/blog/issues/34)(2017.11.21)
 
-### Node
-- [node 基础学习](https://github.com/sunyongjian/blog/issues/6) (2016.07)
-- [express 学习](https://github.com/sunyongjian/blog/issues/5) (2016.07)
-
 ### 面试
 - [2017-08 面试总结](https://github.com/sunyongjian/blog/issues/32) (2017.08)
 - [面试问别人的一些问题](https://github.com/sunyongjian/blog/issues/24) (2017.03.14)
@@ -47,16 +43,15 @@
 - [git 常用问题](https://github.com/sunyongjian/blog/issues/16) (2016.12.16)
 - [git-Fork 工作流](https://github.com/sunyongjian/blog/issues/29) (2017.08.11)
 
-### 工具
-- [oh-my-zsh](https://github.com/sunyongjian/blog/issues/2) (2016.08)
+### 笔记
 - [eslint 使用](https://github.com/sunyongjian/blog/issues/14) (2017.02.16)
 - [我的 vim 配置](https://github.com/sunyongjian/blog/issues/22) (2017.03.03)
+- [node 基础学习](https://github.com/sunyongjian/blog/issues/6) (2016.07)
+- [express 笔记](https://github.com/sunyongjian/blog/issues/5) (2016.07)
 
 ### WEB
 - [session 和 cookie 的区别](https://github.com/sunyongjian/blog/issues/4) (2016.07)
 
-### 生活
+### Other
 - [一百天运动总结](https://github.com/sunyongjian/blog/issues/19) (2017.06.04)
-
-### 其他
 - [记录一些关键字](https://github.com/sunyongjian/blog/issues/20) (2017.06.06)
