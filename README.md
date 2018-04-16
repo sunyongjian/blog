@@ -5,10 +5,11 @@
 ### 函数式编程
 - [repo](https://github.com/sunyongjian/FP-Code/tree/master) (2017.7.31)
 
-### ES6
+### ES6 相关
 - [Promise 阅读笔记](https://github.com/sunyongjian/blog/issues/12) (2016.12.15)
 - [Symbol 对象是什么](https://github.com/sunyongjian/blog/issues/17) (2017.04.05)
 - [迭代器(iterator)](https://github.com/sunyongjian/blog/issues/18) (2017.04.06)
+- [pkg.module 和 tree-shaking](https://github.com/sunyongjian/blog/issues/37)(2018.4.10)
 
 ### React
 - [React 进阶之高阶组件](https://github.com/sunyongjian/blog/issues/25) (2017.6.28)
