@@ -25,7 +25,8 @@
 - [探究 Redux 源码-衍生-中间件思想](https://github.com/sunyongjian/blog/issues/21) (2017.06.10)
 
 ### Javascript
-- [由中间件思想引发出的 JavaScript 异步队列](https://github.com/sunyongjian/blog/issues/31) (2017.9.27)
+- [JS 异步错误捕获二三事](https://github.com/sunyongjian/blog/issues/40) (2019.04.24)
+- [由中间件思想引发出的 JavaScript 异步队列](https://github.com/sunyongjian/blog/issues/31) (2017.09.27)
 - [你真的会用 babel 吗？](https://github.com/sunyongjian/blog/issues/30) (2017.09.14)
 - [不可变数据（immutable data）](https://github.com/sunyongjian/blog/issues/33)（2017.11.12）
 - [js 中的继承小结](https://github.com/sunyongjian/blog/issues/7) (2016.06)
